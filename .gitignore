@@ -1,0 +1,13 @@
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Gemini agent brain (conversation artifacts)
+.gemini/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
